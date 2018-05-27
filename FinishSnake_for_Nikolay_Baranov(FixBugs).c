@@ -13,7 +13,7 @@ const char items[4][10] = {
 //Подменю "Settingsё", выбор размерности окна
 const char window[4][10] = { 
      "25x25",
-     "40x40",
+     "40x40",asdasdasd
      "45x45",
      "Exit"
 };

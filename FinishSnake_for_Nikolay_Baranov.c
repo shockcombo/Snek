@@ -18,7 +18,7 @@ const char window[4][10] = {
      "Exit"
 };
 const char colorss[2][15] = {
-       "defaut",
+       "kolya gay",
        "Blue+Yellow"
 };
 //Подменю color
